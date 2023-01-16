@@ -1,0 +1,23 @@
+{
+  "name": "app2",
+  "version": "1.0.0",
+  "description": "This is the web app of BuskHat music platform.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/idyweb/BuskHat%20Music%20App.git"
+  },
+  "author": "Idongesit Inyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idyweb/BuskHat%20Music%20App/issues"
+  },
+  "homepage": "https://github.com/idyweb/BuskHat%20Music%20App#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "multer": "^1.4.5-lts.1"
+  }
+}
